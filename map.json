@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"immernurwollen\/meeting_dojo"
+                 "value":"immernurwollen-meeting_dojo"
                 }],
          "type":"tilelayer",
          "visible":true,
